@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+#Hi All
+##**HAPPY DAY!!**
+###### Side Note: I'm Cool
 Use the left arrow to go back!
